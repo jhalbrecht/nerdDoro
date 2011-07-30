@@ -19,6 +19,7 @@ PUB Main_Program | a,b,c,d,e,f,clk_scale
 
     clk_scale := clkfreq / 500_000                      'set clk_scale based on system clock
 
+{{
     repeat
       
       if MM2125.MxTilt > 10
@@ -33,7 +34,7 @@ PUB Main_Program | a,b,c,d,e,f,clk_scale
         ser.str(string("Y"))
       else
         ser.str(string(" "))        
-    
+}}    
 
     repeat
       a := MM2125.Mx            'get RAW x value            

@@ -1,3 +1,9 @@
 README
 nerdDoro - a Parallax spinneret project for the 2011 design contest
 http://forums.parallax.com/showthread.php?132623-2011-Spinneret-Web-Server-design-contest-entry-JHA
+
+Reads sensirion temperature and humidity
+displays RTC, temperature
+monitors memsic accelerometer to toggle LCD backlight and reset timer function
+produces XML of time and temperatur
+
