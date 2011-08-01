@@ -5,5 +5,5 @@ http://forums.parallax.com/showthread.php?132623-2011-Spinneret-Web-Server-desig
 Reads sensirion temperature and humidity
 displays RTC, temperature
 monitors memsic accelerometer to toggle LCD backlight and reset timer function
-produces XML of time and temperatur
+produces XML of time and temperature
 
